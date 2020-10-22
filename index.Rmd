@@ -707,23 +707,6 @@ knitr::include_graphics("figures/algorithm/tas4.png")
 
 class: bg-main2, center
 
-# Closest available point
-.pull-left[
-
-```{r, out.width = "500px", echo = FALSE}
-knitr::include_graphics("figures/algorithm/tas_7centroid1.png")
-```
-]
-.pull-right[
-## - Choose closest point
-## - Angle maintains the spatial relationship
-
-]
-
----
-
-class: bg-main2, center
-
 # Final product
 
 ```{r, out.width = "1000px", echo = FALSE}
